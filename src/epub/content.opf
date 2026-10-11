@@ -19,7 +19,6 @@
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
-		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">displayTransformability</meta>
@@ -184,26 +183,26 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="the-stellar-legion.xhtml"/>
-		<itemref idref="the-dragon-queen-of-jupiter.xhtml"/>
 		<itemref idref="a-world-is-born.xhtml"/>
+		<itemref idref="black-amazon-of-mars.xhtml"/>
 		<itemref idref="child-of-the-sun.xhtml"/>
+		<itemref idref="citadel-of-lost-ships.xhtml"/>
+		<itemref idref="enchantress-of-venus.xhtml"/>
+		<itemref idref="last-call-from-sector-9g.xhtml"/>
+		<itemref idref="lorelei-of-the-red-mist.xhtml"/>
 		<itemref idref="out-of-the-sea.xhtml"/>
 		<itemref idref="outpost-on-io.xhtml"/>
-		<itemref idref="citadel-of-lost-ships.xhtml"/>
-		<itemref idref="the-blue-behemoth.xhtml"/>
-		<itemref idref="thralls-of-the-endless-night.xhtml"/>
-		<itemref idref="the-jewel-of-bas.xhtml"/>
-		<itemref idref="terror-out-of-space.xhtml"/>
-		<itemref idref="the-vanishing-venusians.xhtml"/>
-		<itemref idref="lorelei-of-the-red-mist.xhtml"/>
-		<itemref idref="the-beast-jewel-of-mars.xhtml"/>
 		<itemref idref="queen-of-the-martian-catacombs.xhtml"/>
-		<itemref idref="enchantress-of-venus.xhtml"/>
-		<itemref idref="black-amazon-of-mars.xhtml"/>
 		<itemref idref="shannach-the-last.xhtml"/>
-		<itemref idref="last-call-from-sector-9g.xhtml"/>
+		<itemref idref="terror-out-of-space.xhtml"/>
+		<itemref idref="the-beast-jewel-of-mars.xhtml"/>
+		<itemref idref="the-blue-behemoth.xhtml"/>
+		<itemref idref="the-dragon-queen-of-jupiter.xhtml"/>
+		<itemref idref="the-jewel-of-bas.xhtml"/>
 		<itemref idref="the-road-to-sinharat.xhtml"/>
+		<itemref idref="the-stellar-legion.xhtml"/>
+		<itemref idref="the-vanishing-venusians.xhtml"/>
+		<itemref idref="thralls-of-the-endless-night.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
