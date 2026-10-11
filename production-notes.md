@@ -1,0 +1,3 @@
+In twelve of the stories, the magazine prints no numeral before the opening text, and numbers the next part "II". This ebook adds "I" to the opening part. The stories are *Outpost on Io*, *Citadel of Lost Ships*, *The Blue Behemoth*, *The Jewel of Bas*, *Terror Out of Space*, *The Vanishing Venusians*, *The Beast-Jewel of Mars*, *Queen of the Martian Catacombs*, *Enchantress of Venus*, *Shannach—The Last*, *Last Call from Sector 9G*, and *The Road to Sinharat*.
+
+*Last Call from Sector 9G* is titled "Last Call for Sector 9G" on its first page in *Planet Stories*, Summer 1955. The contents page and the running heads of the same issue use "Last Call from Sector 9G", and so does this ebook.
