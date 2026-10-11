@@ -30,37 +30,144 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Science fiction</dc:subject>
+		<dc:subject id="subject-2">Short stories</dc:subject>
+		<dc:subject id="subject-3">Adventure stories</dc:subject>
+		<dc:subject id="subject-4">War stories</dc:subject>
+		<dc:subject id="subject-5">Mars (Planet)--Fiction</dc:subject>
+		<dc:subject id="subject-6">Venus (Planet)--Fiction</dc:subject>
+		<dc:subject id="subject-7">Jupiter (Planet)--Fiction</dc:subject>
+		<dc:subject id="subject-8">Mercury (Planet)--Fiction</dc:subject>
+		<dc:subject id="subject-9">Io (Satellite)--Fiction</dc:subject>
+		<dc:subject id="subject-10">Stark, Eric John (Fictitious character)--Fiction</dc:subject>
+		<dc:subject id="subject-11">Life on other planets--Fiction</dc:subject>
+		<dc:subject id="subject-12">Human-alien encounters--Fiction</dc:subject>
+		<dc:subject id="subject-13">Martians--Fiction</dc:subject>
+		<dc:subject id="subject-14">Space colonies--Fiction</dc:subject>
+		<dc:subject id="subject-15">Space stations--Fiction</dc:subject>
+		<dc:subject id="subject-16">Soldiers--Fiction</dc:subject>
+		<dc:subject id="subject-17">Prisoners--Fiction</dc:subject>
+		<dc:subject id="subject-18">Castaways--Fiction</dc:subject>
+		<dc:subject id="subject-19">Civil war--Fiction</dc:subject>
+		<dc:subject id="subject-20">Regression (Civilization)--Fiction</dc:subject>
+		<dc:subject id="subject-21">Circus--Fiction</dc:subject>
+		<dc:subject id="subject-22">Androids--Fiction</dc:subject>
+		<dc:subject id="subject-23">Immortality--Fiction</dc:subject>
+		<dc:subject id="subject-24">Musicians--Fiction</dc:subject>
+		<dc:subject id="subject-25">Thieves--Fiction</dc:subject>
+		<dc:subject id="subject-26">Enslaved persons--Fiction</dc:subject>
+		<dc:subject id="subject-27">Missing persons--Fiction</dc:subject>
+		<dc:subject id="subject-28">Man-woman relationships--Fiction</dc:subject>
+		<dc:subject id="subject-29">Monsters--Fiction</dc:subject>
+		<dc:subject id="subject-30">World War, 1939-1945--Fiction</dc:subject>
+		<dc:subject id="subject-31">Santa Monica (Calif.)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
-		<meta property="schema:genre">TAG</meta>
+		<meta property="term" refines="#subject-2">sh85121813</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85001072</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85145220</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008115817</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">Unknown</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">Unknown</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">Unknown</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">Unknown</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">Unknown</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">sh2008106912</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">sh2008105650</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">Unknown</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">sh2008111729</meta>
+		<meta property="authority" refines="#subject-15">LCSH</meta>
+		<meta property="term" refines="#subject-15">sh2010114292</meta>
+		<meta property="authority" refines="#subject-16">LCSH</meta>
+		<meta property="term" refines="#subject-16">sh2008111377</meta>
+		<meta property="authority" refines="#subject-17">LCSH</meta>
+		<meta property="term" refines="#subject-17">sh2008108759</meta>
+		<meta property="authority" refines="#subject-18">LCSH</meta>
+		<meta property="term" refines="#subject-18">sh2008100157</meta>
+		<meta property="authority" refines="#subject-19">LCSH</meta>
+		<meta property="term" refines="#subject-19">Unknown</meta>
+		<meta property="authority" refines="#subject-20">LCSH</meta>
+		<meta property="term" refines="#subject-20">sh2008110652</meta>
+		<meta property="authority" refines="#subject-21">LCSH</meta>
+		<meta property="term" refines="#subject-21">sh2008100792</meta>
+		<meta property="authority" refines="#subject-22">LCSH</meta>
+		<meta property="term" refines="#subject-22">sh2009114914</meta>
+		<meta property="authority" refines="#subject-23">LCSH</meta>
+		<meta property="term" refines="#subject-23">sh2009126786</meta>
+		<meta property="authority" refines="#subject-24">LCSH</meta>
+		<meta property="term" refines="#subject-24">sh2008107254</meta>
+		<meta property="authority" refines="#subject-25">LCSH</meta>
+		<meta property="term" refines="#subject-25">sh2008112806</meta>
+		<meta property="authority" refines="#subject-26">LCSH</meta>
+		<meta property="term" refines="#subject-26">sh2008111715</meta>
+		<meta property="authority" refines="#subject-27">LCSH</meta>
+		<meta property="term" refines="#subject-27">sh2008107165</meta>
+		<meta property="authority" refines="#subject-28">LCSH</meta>
+		<meta property="term" refines="#subject-28">sh2008107175</meta>
+		<meta property="authority" refines="#subject-29">LCSH</meta>
+		<meta property="term" refines="#subject-29">sh2008107935</meta>
+		<meta property="authority" refines="#subject-30">LCSH</meta>
+		<meta property="term" refines="#subject-30">sh87008024</meta>
+		<meta property="authority" refines="#subject-31">LCSH</meta>
+		<meta property="term" refines="#subject-31">Unknown</meta>
+		<meta property="schema:genre">Science Fiction</meta>
+		<meta property="schema:genre">Shorts</meta>
+		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<meta property="schema:abstract">ABSTRACT</meta>
-		<dc:description>
-			DESCRIPTION
-		</dc:description>
+		<dc:description>DESCRIPTION</dc:description>
 		<dc:language>en-US</dc:language>
+		<!--The Stellar Legion-->
 		<dc:source>https://www.gutenberg.org/ebooks/61844</dc:source>
+		<!--The Dragon-Queen of Jupiter-->
 		<dc:source>https://www.gutenberg.org/ebooks/61890</dc:source>
+		<!--A World Is Born-->
 		<dc:source>https://www.gutenberg.org/ebooks/22544</dc:source>
+		<!--Child of the Sun-->
 		<dc:source>https://www.gutenberg.org/ebooks/62037</dc:source>
+		<!--Out of the Sea-->
 		<dc:source>https://www.gutenberg.org/ebooks/68718</dc:source>
+		<!--Outpost on Io-->
 		<dc:source>https://www.gutenberg.org/ebooks/62249</dc:source>
+		<!--Citadel of Lost Ships-->
 		<dc:source>https://www.gutenberg.org/ebooks/62316</dc:source>
+		<!--The Blue Behemoth-->
 		<dc:source>https://www.gutenberg.org/ebooks/62349</dc:source>
+		<!--Thralls of the Endless Night-->
 		<dc:source>https://www.gutenberg.org/ebooks/62382</dc:source>
+		<!--The Jewel of Bas-->
 		<dc:source>https://www.gutenberg.org/ebooks/62996</dc:source>
+		<!--Terror Out of Space-->
 		<dc:source>https://www.gutenberg.org/ebooks/63062</dc:source>
+		<!--The Vanishing Venusians-->
 		<dc:source>https://www.gutenberg.org/ebooks/63516</dc:source>
+		<!--Lorelei of the Red Mist-->
 		<dc:source>https://www.gutenberg.org/ebooks/63917</dc:source>
+		<!--The Beast-Jewel of Mars-->
 		<dc:source>https://www.gutenberg.org/ebooks/63872</dc:source>
+		<!--Queen of the Martian Catacombs-->
 		<dc:source>https://www.gutenberg.org/ebooks/63956</dc:source>
+		<!--Enchantress of Venus-->
 		<dc:source>https://www.gutenberg.org/ebooks/64043</dc:source>
+		<!--Black Amazon of Mars-->
 		<dc:source>https://www.gutenberg.org/ebooks/32664</dc:source>
+		<!--Shannach—The Last-->
 		<dc:source>https://www.gutenberg.org/ebooks/64026</dc:source>
+		<!--Last Call from Sector 9G-->
 		<dc:source>https://www.gutenberg.org/ebooks/63686</dc:source>
+		<!--The Road to Sinharat-->
 		<dc:source>https://www.gutenberg.org/ebooks/72439</dc:source>
 		<!--The Stellar Legion-->
 		<dc:source>https://archive.org/details/Planet_Stories_v01n05_1940-Winter</dc:source>
@@ -102,7 +209,7 @@
 		<dc:source>https://archive.org/details/amazing-stories-v-37-n-05-1963-05</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
-		<link href="EBOOK_WIKI_URL" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Leigh_Brackett#Short_science_fiction" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/leigh-brackett_short-fiction" refines="#vcs-repository" rel="schema:codeRepository"/>
@@ -137,9 +244,9 @@
 		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-4" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<link href="PRODUCER_URL" refines="#producer-1" rel="schema:url"/>
+		<dc:contributor id="producer-1">Ara Hacopian</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Hacopian, Ara</meta>
+		<link href="https://arahacopian.com/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
