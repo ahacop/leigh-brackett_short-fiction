@@ -63,7 +63,44 @@
 		<dc:source>https://www.gutenberg.org/ebooks/64026</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/63686</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/72439</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<!--The Stellar Legion-->
+		<dc:source>https://archive.org/details/Planet_Stories_v01n05_1940-Winter</dc:source>
+		<!--The Dragon-Queen of Jupiter-->
+		<dc:source>https://archive.org/details/Planet_Stories_v01n07_1941-Summer_from_microfilm</dc:source>
+		<!--A World Is Born-->
+		<dc:source>https://archive.org/details/Comet_v01n05_1941-07</dc:source>
+		<!--Child of the Sun-->
+		<dc:source>https://archive.org/details/Planet_Stories_v01n10_1942-Sp_sas</dc:source>
+		<!--Outpost on Io-->
+		<dc:source>https://archive.org/details/Planet_Stories_v02n01_1942-Winter</dc:source>
+		<!--Citadel of Lost Ships-->
+		<dc:source>https://archive.org/details/Planet_Stories_v02n02_1943-03_sas</dc:source>
+		<!--The Blue Behemoth-->
+		<dc:source>https://archive.org/details/Planet_Stories_v02n03_1943-05_sas</dc:source>
+		<!--Thralls of the Endless Night-->
+		<dc:source>https://archive.org/details/Planet_Stories_v02n04_1943-Fall</dc:source>
+		<!--The Jewel of Bas-->
+		<dc:source>https://archive.org/details/Planet_Stories_v02n06_1944-Spring</dc:source>
+		<!--Terror Out of Space-->
+		<dc:source>https://archive.org/details/Planet_Stories_v02n07_1944-Summer</dc:source>
+		<!--The Vanishing Venusians-->
+		<dc:source>https://archive.org/details/Planet_Stories_v02n10_1945-Sp_sas</dc:source>
+		<!--Lorelei of the Red Mist-->
+		<dc:source>https://archive.org/details/Planet_Stories_v03n03_1946-Su_sas</dc:source>
+		<!--The Beast-Jewel of Mars-->
+		<dc:source>https://archive.org/details/Planet_Stories_v04n01_1948-Winter</dc:source>
+		<!--Queen of the Martian Catacombs-->
+		<dc:source>https://archive.org/details/Planet_Stories_v04n03_1949-Summer</dc:source>
+		<!--Enchantress of Venus-->
+		<dc:source>https://archive.org/details/Planet_Stories_v04n04_1949-Fa_sas</dc:source>
+		<!--Black Amazon of Mars-->
+		<dc:source>https://archive.org/details/Planet_Stories_v04n11_1951-03</dc:source>
+		<!--Shannach—The Last-->
+		<dc:source>https://archive.org/details/Planet_Stories_v05n09_1952-11</dc:source>
+		<!--Last Call from Sector 9G-->
+		<dc:source>https://archive.org/details/Planet_Stories_v06n11_1955-Summer</dc:source>
+		<!--The Road to Sinharat-->
+		<dc:source>https://archive.org/details/amazing-stories-v-37-n-05-1963-05</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<link href="EBOOK_WIKI_URL" rel="schema:sameAs"/>
