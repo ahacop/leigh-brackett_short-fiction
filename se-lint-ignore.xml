@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="last-call-from-sector-9g.xhtml">
+		<ignore code="s-023">
+			<line>10</line>
+			<reason>“9G” is a sector designation, not a word, and keeps its capital letter.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
