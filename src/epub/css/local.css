@@ -8,3 +8,10 @@ q{
 q i{
 	font-style: normal;
 }
+
+/* Byline that credits the co-author of this story */
+#lorelei-of-the-red-mist header p{
+	font-style: italic;
+	text-align: center;
+	text-indent: 0;
+}
